@@ -5,6 +5,7 @@ baseURL = "https://cruznicholas-fs.github.io/1.6_hugo/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
+publishDir = "docs"
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
 
