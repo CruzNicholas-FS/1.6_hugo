@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/CruzNicholas-FS/CruzNicholas-FS.github.io.git
+	branch = main
