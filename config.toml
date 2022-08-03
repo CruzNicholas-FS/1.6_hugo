@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://cruznicholas-fs.github.io/1.6_hugo"
+baseURL = "https://cruznicholas-fs.github.io/1.6_hugo/"
 title = "Hugo Theme MemE"
 languageCode = "en"
 hasCJKLanguage = false
